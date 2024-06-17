@@ -1,1 +1,1 @@
-# IBM-Python-Data-Science-Capstone
+# IBM-Python-Data-Analyst-Capstone
